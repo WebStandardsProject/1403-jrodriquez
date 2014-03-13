@@ -18,3 +18,19 @@ time, mark, audio, video {
     vertical-align:baseline;
     background:transparent;
 }
+
+body{
+    list-style:none;
+}
+
+.thumb{
+    float:left;
+}
+
+br{
+    clear:both;
+}
+
+.profilePic{
+    float:left;
+}
