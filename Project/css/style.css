@@ -23,6 +23,24 @@ body{
     list-style:none;
 }
 
+.wrapper{
+    margin:0px auto;
+    width:70%;
+}
+
+.wrapper .login{
+    margin-top:200px;
+}
+
+.wrapper .login form{
+    margin-left:33%;
+    margin-top:50px;
+}
+
+.wrapper .login img{
+    max-width:100%;
+}
+
 .thumb{
     float:left;
 }
@@ -33,4 +51,10 @@ br{
 
 .profilePic{
     float:left;
+}
+
+.row .category{
+    color:#fff;
+    background-color:#008cba;
+    padding:20px;
 }
