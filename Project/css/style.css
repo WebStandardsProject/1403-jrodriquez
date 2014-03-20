@@ -33,8 +33,14 @@ body{
 }
 
 .wrapper .login form{
+    width:30%;
     margin-left:33%;
     margin-top:50px;
+}
+
+.wrapper .login div{
+    margin-left:47%;
+    margin-top:20px;
 }
 
 .wrapper .login img{
@@ -57,4 +63,8 @@ br{
     color:#fff;
     background-color:#008cba;
     padding:20px;
+}
+
+body .row .button{
+    margin:20px 0 0 0;
 }
