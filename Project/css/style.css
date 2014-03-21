@@ -47,6 +47,25 @@ body{
     max-width:100%;
 }
 
+.head{
+    background-color:#003f54;
+}
+
+.head .icon{
+    width:20%;
+    float:left;
+}
+
+.head ul li{
+    list-style:none;
+    float:left;
+}
+
+.head ul li a{
+    list-style:none;
+    /*display:inline;*/
+}
+
 .thumb{
     float:left;
 }
@@ -63,6 +82,12 @@ br{
     color:#fff;
     background-color:#008cba;
     padding:20px;
+}
+
+.row .thumb{
+    /*margin:10px;*/
+    /*padding:5px;*/
+    outline:#008cba solid 2px;
 }
 
 body .row .button{
