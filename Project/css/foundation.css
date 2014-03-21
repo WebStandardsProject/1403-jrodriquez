@@ -39,7 +39,6 @@ body {
   font-size: 100%; }
 
 body {
-  background: white;
   color: #222222;
   padding: 0;
   margin: 0;
@@ -1476,7 +1475,7 @@ button, .button {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: normal;
-  margin: 0 0 1.25rem;
+  margin: 0 0 0;
   position: relative;
   text-decoration: none;
   text-align: center;
@@ -1487,7 +1486,7 @@ button, .button {
   padding-left: 2rem;
   font-size: 1rem;
   /*     @else                            { font-size: $padding - rem-calc(2); } */
-  background-color: #008cba;
+  /*background-color: #282D59;*/
   border-color: #007095;
   color: white;
   -webkit-transition: background-color 300ms ease-out;
@@ -1500,9 +1499,9 @@ button, .button {
   font-size: 1rem;
   /*     @else                            { font-size: $padding - rem-calc(2); } */ }
   button:hover, button:focus, .button:hover, .button:focus {
-    background-color: #007095; }
+    background-color: #fff; }
   button:hover, button:focus, .button:hover, .button:focus {
-    color: white; }
+    color: #282D59; }
   button.secondary, .button.secondary {
     background-color: #e7e7e7;
     border-color: #b9b9b9;

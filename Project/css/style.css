@@ -20,7 +20,13 @@ time, mark, audio, video {
 }
 
 body{
+    background-image:url("../img/pixel_weave.jpg");
     list-style:none;
+}
+
+body h2{
+    font-size:24px;
+    margin-bottom:20px;
 }
 
 .wrapper{
@@ -48,11 +54,23 @@ body{
 }
 
 .head{
-    background-color:#003f54;
+    overflow:hidden;
+    background-color:#292D59;
+    background-image:url("../img/triangular.jpg");
 }
 
 .head .icon{
     width:20%;
+    margin-top:20px;
+    float:left;
+}
+
+.head .nav{
+    margin-top:20px;
+    float:right;
+}
+
+.head ul{
     float:left;
 }
 
@@ -63,7 +81,6 @@ body{
 
 .head ul li a{
     list-style:none;
-    /*display:inline;*/
 }
 
 .thumb{
@@ -85,8 +102,10 @@ br{
 }
 
 .row .thumb{
-    /*margin:10px;*/
-    /*padding:5px;*/
+    background-color:#ffffff;
+    width:30%;
+    margin:9px;
+    padding:5px;
     outline:#008cba solid 2px;
 }
 
