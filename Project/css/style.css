@@ -110,8 +110,11 @@ br{
     background-color:#ffffff;
     width:30%;
     margin:1.66%;
-    padding:5px;
     outline:#008cba solid 2px;
+}
+
+#events .thumb div{
+    paddign:6px;
 }
 
 body .row .button{
