@@ -6,13 +6,13 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395351909384" ignored="false" />
     <file path="/index.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395352223458" ignored="false" />
-    <file path="/event.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395540317140" ignored="false" />
+    <file path="/event.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395781760353" ignored="false" />
     <file path="/eventSerch.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395354587490" ignored="false" />
     <file path="/playerEvent.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395374158043" ignored="false" />
     <file path="/playerSerch.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395354743908" ignored="false" />
     <file path="/landing.css" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1394576396653" ignored="false" />
     <file path="/playerResult.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395354696850" ignored="false" />
-    <file path="/style.css" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395540399807" ignored="false" />
+    <file path="/style.css" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395782735721" ignored="false" />
     <file path="/registration.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395352681296" ignored="false" />
     <file path="/foundation.css" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395371422427" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,7 +46,7 @@
       <file leaf-file-name="event.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project/event.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="19" selection-start="1574" selection-end="1574" vertical-scroll-proportion="-11.25">
+            <state line="34" column="60" selection-start="1201" selection-end="1201" vertical-scroll-proportion="-18.125">
               <folding />
             </state>
           </provider>
@@ -55,7 +55,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="115" column="0" selection-start="1736" selection-end="1736" vertical-scroll-proportion="0.57878315">
+            <state line="73" column="0" selection-start="929" selection-end="929" vertical-scroll-proportion="0.36817473">
               <folding />
             </state>
           </provider>
@@ -64,7 +64,7 @@
       <file leaf-file-name="playerSerch.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project/playerSerch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="13" selection-start="551" selection-end="551" vertical-scroll-proportion="-8.125">
+            <state line="5" column="55" selection-start="254" selection-end="254" vertical-scroll-proportion="-3.125">
               <folding />
             </state>
           </provider>
@@ -73,7 +73,7 @@
       <file leaf-file-name="playerEvent.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project/playerEvent.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="24" selection-start="2929" selection-end="2940" vertical-scroll-proportion="-0.5">
+            <state line="5" column="55" selection-start="254" selection-end="254" vertical-scroll-proportion="-3.125">
               <folding />
             </state>
           </provider>
@@ -82,7 +82,7 @@
       <file leaf-file-name="playerResult.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project/playerResult.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="4" selection-start="525" selection-end="1008" vertical-scroll-proportion="-7.5">
+            <state line="28" column="18" selection-start="1021" selection-end="1021" vertical-scroll-proportion="-17.5">
               <folding />
             </state>
           </provider>
@@ -91,7 +91,7 @@
       <file leaf-file-name="foundation.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project/css/foundation.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="150" column="23" selection-start="2899" selection-end="2899" vertical-scroll-proportion="-3.4615386">
+            <state line="150" column="23" selection-start="2899" selection-end="2899" vertical-scroll-proportion="-32.884617">
               <folding />
             </state>
           </provider>
@@ -123,10 +123,10 @@
         <option value="$PROJECT_DIR$/Project/eventReg.html" />
         <option value="$PROJECT_DIR$/Project/index.html" />
         <option value="$PROJECT_DIR$/Project/eventSerch.html" />
-        <option value="$PROJECT_DIR$/Project/playerSerch.html" />
-        <option value="$PROJECT_DIR$/Project/playerResult.html" />
-        <option value="$PROJECT_DIR$/Project/playerEvent.html" />
         <option value="$PROJECT_DIR$/Project/css/foundation.css" />
+        <option value="$PROJECT_DIR$/Project/playerSerch.html" />
+        <option value="$PROJECT_DIR$/Project/playerEvent.html" />
+        <option value="$PROJECT_DIR$/Project/playerResult.html" />
         <option value="$PROJECT_DIR$/Project/event.html" />
         <option value="$PROJECT_DIR$/Project/css/style.css" />
       </list>
@@ -292,7 +292,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-12" y="22" width="1439" height="844" extended-state="1" />
+    <frame x="-12" y="22" width="1439" height="844" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -426,6 +426,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Project/eventSerch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="134" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.54628223">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Project/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="115" selection-start="365" selection-end="365" vertical-scroll-proportion="-3.75">
@@ -435,49 +442,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/playerSerch.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="551" selection-end="551" vertical-scroll-proportion="-8.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project/playerResult.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="4" selection-start="525" selection-end="1008" vertical-scroll-proportion="-7.5">
+        <state line="5" column="55" selection-start="254" selection-end="254" vertical-scroll-proportion="-3.125">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/playerEvent.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="24" selection-start="2929" selection-end="2940" vertical-scroll-proportion="-0.5">
+        <state line="5" column="55" selection-start="254" selection-end="254" vertical-scroll-proportion="-3.125">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project/eventSerch.html">
+    <entry file="file://$PROJECT_DIR$/Project/playerResult.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="134" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.54628223">
+        <state line="28" column="18" selection-start="1021" selection-end="1021" vertical-scroll-proportion="-17.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/css/foundation.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="150" column="23" selection-start="2899" selection-end="2899" vertical-scroll-proportion="-3.4615386">
+        <state line="150" column="23" selection-start="2899" selection-end="2899" vertical-scroll-proportion="-32.884617">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/event.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="19" selection-start="1574" selection-end="1574" vertical-scroll-proportion="-11.25">
+        <state line="34" column="60" selection-start="1201" selection-end="1201" vertical-scroll-proportion="-18.125">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="115" column="0" selection-start="1736" selection-end="1736" vertical-scroll-proportion="0.57878315">
+        <state line="73" column="0" selection-start="929" selection-end="929" vertical-scroll-proportion="0.36817473">
           <folding />
         </state>
       </provider>
