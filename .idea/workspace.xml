@@ -4,17 +4,17 @@
     <list default="true" id="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" name="Default" comment="" />
     <ignored path="1403-jrodriquez.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395351909384" ignored="false" />
+    <file path="/Dummy.txt" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395799061269" ignored="false" />
     <file path="/index.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395352223458" ignored="false" />
-    <file path="/event.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395781760353" ignored="false" />
-    <file path="/eventSerch.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395354587490" ignored="false" />
-    <file path="/playerEvent.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395374158043" ignored="false" />
-    <file path="/playerSerch.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395354743908" ignored="false" />
+    <file path="/event.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395801156482" ignored="false" />
+    <file path="/eventSerch.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395790970881" ignored="false" />
+    <file path="/playerEvent.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395790996947" ignored="false" />
+    <file path="/playerSerch.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395803822735" ignored="false" />
     <file path="/landing.css" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1394576396653" ignored="false" />
-    <file path="/playerResult.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395354696850" ignored="false" />
-    <file path="/style.css" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395782735721" ignored="false" />
+    <file path="/playerResult.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395803287235" ignored="false" />
+    <file path="/style.css" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395853992541" ignored="false" />
     <file path="/registration.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395352681296" ignored="false" />
-    <file path="/foundation.css" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395371422427" ignored="false" />
+    <file path="/foundation.css" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395802281507" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +37,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="115" selection-start="365" selection-end="365" vertical-scroll-proportion="-3.75">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="event.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project/event.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="60" selection-start="1201" selection-end="1201" vertical-scroll-proportion="-18.125">
+            <state line="28" column="17" selection-start="806" selection-end="806" vertical-scroll-proportion="-17.5">
               <folding />
             </state>
           </provider>
@@ -55,7 +46,25 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="0" selection-start="929" selection-end="929" vertical-scroll-proportion="0.36817473">
+            <state line="147" column="21" selection-start="1881" selection-end="1881" vertical-scroll-proportion="0.7413793">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="event.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project/event.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="10" selection-start="1658" selection-end="1658" vertical-scroll-proportion="-20.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="eventSerch.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project/eventSerch.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="16" selection-start="1823" selection-end="2018" vertical-scroll-proportion="-5.0">
               <folding />
             </state>
           </provider>
@@ -64,7 +73,7 @@
       <file leaf-file-name="playerSerch.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project/playerSerch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="55" selection-start="254" selection-end="254" vertical-scroll-proportion="-3.125">
+            <state line="37" column="85" selection-start="1179" selection-end="1179" vertical-scroll-proportion="-13.125">
               <folding />
             </state>
           </provider>
@@ -73,7 +82,7 @@
       <file leaf-file-name="playerEvent.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project/playerEvent.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="55" selection-start="254" selection-end="254" vertical-scroll-proportion="-3.125">
+            <state line="39" column="64" selection-start="1244" selection-end="1244" vertical-scroll-proportion="-15.0">
               <folding />
             </state>
           </provider>
@@ -82,7 +91,7 @@
       <file leaf-file-name="playerResult.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project/playerResult.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="18" selection-start="1021" selection-end="1021" vertical-scroll-proportion="-17.5">
+            <state line="39" column="34" selection-start="1295" selection-end="1295" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
@@ -91,7 +100,7 @@
       <file leaf-file-name="foundation.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project/css/foundation.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="150" column="23" selection-start="2899" selection-end="2899" vertical-scroll-proportion="-32.884617">
+            <state line="2880" column="37" selection-start="75846" selection-end="75846" vertical-scroll-proportion="-5.576923">
               <folding />
             </state>
           </provider>
@@ -122,18 +131,17 @@
         <option value="$PROJECT_DIR$/Project/registration.html" />
         <option value="$PROJECT_DIR$/Project/eventReg.html" />
         <option value="$PROJECT_DIR$/Project/index.html" />
+        <option value="$PROJECT_DIR$/Project/playerEvent.html" />
         <option value="$PROJECT_DIR$/Project/eventSerch.html" />
         <option value="$PROJECT_DIR$/Project/css/foundation.css" />
-        <option value="$PROJECT_DIR$/Project/playerSerch.html" />
-        <option value="$PROJECT_DIR$/Project/playerEvent.html" />
         <option value="$PROJECT_DIR$/Project/playerResult.html" />
+        <option value="$PROJECT_DIR$/Project/playerSerch.html" />
         <option value="$PROJECT_DIR$/Project/event.html" />
         <option value="$PROJECT_DIR$/Project/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
     <option name="y" value="22" />
     <option name="width" value="1439" />
     <option name="height" value="844" />
@@ -211,24 +219,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1403-jrodriquez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1403-jrodriquez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -240,12 +230,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -292,7 +282,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-12" y="22" width="1439" height="844" extended-state="0" />
+    <frame x="0" y="22" width="1439" height="844" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -376,9 +366,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Project/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/index.html">
@@ -407,77 +395,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-8.561665">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-8.561665" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/eventReg.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="38" selection-start="502" selection-end="502" vertical-scroll-proportion="0.32357472">
-          <folding />
-        </state>
+        <state line="14" column="38" selection-start="502" selection-end="502" vertical-scroll-proportion="0.32357472" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/registration.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="16" selection-start="723" selection-end="723" vertical-scroll-proportion="0.4622496">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project/eventSerch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="134" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.54628223">
-          <folding />
-        </state>
+        <state line="20" column="16" selection-start="723" selection-end="723" vertical-scroll-proportion="0.4622496" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="115" selection-start="365" selection-end="365" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project/playerSerch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="55" selection-start="254" selection-end="254" vertical-scroll-proportion="-3.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project/playerEvent.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="55" selection-start="254" selection-end="254" vertical-scroll-proportion="-3.125">
+        <state line="28" column="17" selection-start="806" selection-end="806" vertical-scroll-proportion="-17.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/playerResult.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="18" selection-start="1021" selection-end="1021" vertical-scroll-proportion="-17.5">
+        <state line="39" column="34" selection-start="1295" selection-end="1295" vertical-scroll-proportion="-4.375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/css/foundation.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="150" column="23" selection-start="2899" selection-end="2899" vertical-scroll-proportion="-32.884617">
+        <state line="2880" column="37" selection-start="75846" selection-end="75846" vertical-scroll-proportion="-5.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/playerSerch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="85" selection-start="1179" selection-end="1179" vertical-scroll-proportion="-13.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/playerEvent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="64" selection-start="1244" selection-end="1244" vertical-scroll-proportion="-15.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/eventSerch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="16" selection-start="1823" selection-end="2018" vertical-scroll-proportion="-5.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/event.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="60" selection-start="1201" selection-end="1201" vertical-scroll-proportion="-18.125">
+        <state line="52" column="10" selection-start="1658" selection-end="1658" vertical-scroll-proportion="-20.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="0" selection-start="929" selection-end="929" vertical-scroll-proportion="0.36817473">
+        <state line="147" column="21" selection-start="1881" selection-end="1881" vertical-scroll-proportion="0.7413793">
           <folding />
         </state>
       </provider>

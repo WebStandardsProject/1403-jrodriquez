@@ -1,4 +1,8 @@
 
+html{
+    height:100%;
+}
+
 body{
     background-image:url("../img/pixel_weave.jpg");
     list-style:none;
@@ -11,6 +15,7 @@ body h2{
 
 /*Login and Registration Styles*/
 .wrapper{
+    overflow:hidden;
     margin:0 auto;
     width:70%;
 }
@@ -38,7 +43,7 @@ body h2{
 /*Header and Nav Styles*/
 .head{
     overflow:hidden;
-    background-color:#292D59;
+    background-color:#141B33;
     background-image:url("../img/triangular.jpg");
 }
 
@@ -71,7 +76,16 @@ body h2{
     margin:1.66%;
 }
 
-
+.cat a{
+    display:block;
+    width:141px;
+    height:80px;
+    float:left;
+    text-align:center;
+    line-height:40px;
+    margin-right:2%;
+    margin-bottom:20px;
+}
 
 .icon{
     margin:1.66%;
@@ -104,19 +118,49 @@ br{
 }
 
 .row .thumb:hover{
+    color:#fff;
     background-color:#008cba;
 }
 
-#events .thumb div{
+.thumb div{
     padding:6px;
-    color:#fff;
 }
+
+/*.thumb div:hover h3 , .thumb div:hover h4 ,*/
+/*.thumb div:hover h5 , .thumb div:hover h6 ,*/
+/*.thumb div:hover a{*/
+    /*color:#fff;*/
+/*}*/
 
 body .row .button{
     margin:20px 0 0 0;
 }
 
-.playerSlots{
-    margin-right:100px;
-    float:left;
+.profile a{
+    float:right;
+}
+
+.profile h4, .profile h5{
+    margin:0 0 0 0;
+}
+
+.profilePic{
+    margin-right:10px;
+}
+
+.fake{
+    height:40px;
+    width:100%;
+    margin-top:20px;
+}
+
+footer{
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    text-align:center;
+    height:40px;
+    width:100%;
+    color:#fff;
+    background-color:#141B33;
 }
