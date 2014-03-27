@@ -38,6 +38,12 @@ body h2{
 .wrapper .login img{
     max-width:100%;
 }
+
+form input{
+    width:100%;
+    height:30px;
+    margin:0 0 10px;
+}
 /*Login and Registration Styles end*/
 
 /*Header and Nav Styles*/
