@@ -93,7 +93,12 @@ form input{
     margin-bottom:20px;
 }
 
-.icon{
+.cat #primals{
+    background-image:url("../img/Garuda.jpg");
+}
+
+.head .icon{
+    width:289px;
     margin:1.66%;
 }
 
@@ -103,10 +108,6 @@ form input{
 
 br{
     clear:both;
-}
-
-.profilePic{
-    float:left;
 }
 
 .row .category{
@@ -142,6 +143,17 @@ body .row .button{
     margin:20px 0 0 0;
 }
 
+.players{
+    margin:1.66%;
+}
+
+.profile{
+    padding-bottom:10px;
+    border-bottom:2px solid #008cba;
+    border-right:2px solid #008cba;
+    margin:0 0 40px 0;
+}
+
 .profile a{
     float:right;
 }
@@ -151,6 +163,7 @@ body .row .button{
 }
 
 .profilePic{
+    float:left;
     margin-right:10px;
 }
 
@@ -164,9 +177,13 @@ footer{
     position:fixed;
     left: 0;
     bottom: 0;
-    text-align:center;
+    text-align:center;;
     height:40px;
     width:100%;
     color:#fff;
     background-color:#141B33;
+}
+
+footer p{
+    line-height:40px;
 }
