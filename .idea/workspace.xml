@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395799061269" ignored="false" />
     <file path="/index.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395352223458" ignored="false" />
-    <file path="/event.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395959181715" ignored="false" />
+    <file path="/event.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395970343919" ignored="false" />
     <file path="/eventSerch.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395854975120" ignored="false" />
     <file path="/playerEvent.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395952102771" ignored="false" />
     <file path="/playerSerch.html" changelist="5b99f3c9-e5c2-41eb-8446-bd68a5f3376e" time="1395956494409" ignored="false" />
@@ -43,19 +43,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="5" selection-start="1220" selection-end="1220" vertical-scroll-proportion="0.6034483">
+            <state line="80" column="28" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="event.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="event.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project/event.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="49" selection-start="1129" selection-end="1136" vertical-scroll-proportion="-8.125">
+            <state line="122" column="33" selection-start="3707" selection-end="3707" vertical-scroll-proportion="0.75446427">
               <folding />
             </state>
           </provider>
@@ -136,13 +136,14 @@
         <option value="$PROJECT_DIR$/Project/playerEvent.html" />
         <option value="$PROJECT_DIR$/Project/playerResult.html" />
         <option value="$PROJECT_DIR$/Project/playerSerch.html" />
-        <option value="$PROJECT_DIR$/Project/event.html" />
         <option value="$PROJECT_DIR$/Project/css/style.css" />
+        <option value="$PROJECT_DIR$/Project/event.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="10" />
+    <option name="y" value="23" />
     <option name="width" value="1439" />
     <option name="height" value="844" />
   </component>
@@ -202,6 +203,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1403-jrodriquez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1403-jrodriquez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -282,13 +301,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1439" height="844" extended-state="6" />
-    <editor active="true" />
+    <frame x="10" y="23" width="1439" height="844" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24646893" sideWeight="0.9475138" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24646893" sideWeight="0.9475138" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.05248619" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -415,13 +434,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project/eventSerch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="22" selection-start="948" selection-end="948" vertical-scroll-proportion="-13.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project/playerResult.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="73" column="26" selection-start="2508" selection-end="2508" vertical-scroll-proportion="-33.125">
@@ -450,16 +462,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project/event.html">
+    <entry file="file://$PROJECT_DIR$/Project/eventSerch.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="49" selection-start="1129" selection-end="1136" vertical-scroll-proportion="-8.125">
+        <state line="21" column="22" selection-start="948" selection-end="948" vertical-scroll-proportion="-13.125">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="5" selection-start="1220" selection-end="1220" vertical-scroll-proportion="0.6034483">
+        <state line="80" column="28" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/event.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="33" selection-start="3707" selection-end="3707" vertical-scroll-proportion="0.75446427">
           <folding />
         </state>
       </provider>
