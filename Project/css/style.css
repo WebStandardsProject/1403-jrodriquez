@@ -22,17 +22,38 @@ body h2{
 
 .wrapper .login{
     margin-top:200px;
+    overflow:hidden;
+}
+
+.wrapper .login a{
+    display:block;
+    background-color:#008cba;
+    color:#fff;
+    text-decoration:none;
+    text-align:center;
+    line-height:40px;
+    font-family:Helvetica;
+    float:left;
+    margin:0% 0% 0% 0%;
+    height:40px;
+    margin-right:1%;
+    width:49%;
 }
 
 .wrapper .login form{
-    width:30%;
-    margin-left:33%;
+    width:50%;
+    margin:0 auto;
     margin-top:50px;
 }
 
 .wrapper .login div{
-    margin-left:47%;
-    margin-top:20px;
+    overflow:hidden;
+    width:51%;
+    margin:0 auto;
+}
+
+.wrapper .login #reg{
+    width:100%;
 }
 
 .wrapper .login img{
@@ -54,8 +75,8 @@ form input{
 }
 
 .head .icon{
-    width:20%;
-    margin-top:20px;
+    width:289px;
+    margin:1.66%;
     float:left;
 }
 
@@ -78,8 +99,9 @@ form input{
 }
 /*Header and Nav Styles end*/
 
+/*Ctegory Styles*/
 .cat{
-    margin:1.66%;
+    margin-right:1.66%;
 }
 
 .cat a{
@@ -89,18 +111,42 @@ form input{
     float:left;
     text-align:center;
     line-height:40px;
-    margin-right:2%;
+    margin-left:20px;
     margin-bottom:20px;
 }
 
-/*.cat #primals{*/
-    /*background-image:url("../img/Garuda.jpg");*/
-/*}*/
-
-.head .icon{
-    width:289px;
-    margin:1.66%;
+.cat #primals{
+    background-image:url("../img/GarudaT.png");
+    background-size:100%;
 }
+
+.cat #fate{
+    background-image:url("../img/fate.png");
+    background-size:100%;
+}
+
+.cat #relic{
+    background-image:url("../img/relic.png");
+    background-size:100%;
+}
+
+.cat #craft{
+    background-image:url("../img/craft.png");
+    background-size:100%;
+}
+
+.cat #den{
+    background-image:url("../img/wolf.png");
+    background-size:100%;
+}
+
+.cat #raid{
+    background-image:url("../img/IfritT.png");
+    background-size:106%;
+    background-repeat:no-repeat;
+}
+/*Ctegory Styles end*/
+
 
 .thumb{
     float:left;
@@ -133,16 +179,47 @@ br{
     padding:6px;
 }
 
-/*.thumb div:hover h3 , .thumb div:hover h4 ,*/
-/*.thumb div:hover h5 , .thumb div:hover h6 ,*/
-/*.thumb div:hover a{*/
-    /*color:#fff;*/
-/*}*/
+.thumb:hover div a{
+    color:#fff;
+}
 
 body .row .button{
     margin:20px 0 0 0;
 }
 
+/*Event Styles*/
+
+section .content{
+    width:45%;
+    margin:0 2% 0 0;
+    float:left;
+}
+
+section .data{
+    width:45%;
+    float:left;
+    padding:10px;
+    margin:0 0 2% 0;
+    outline:#008cba solid 2px;
+}
+
+/*End*/
+
+/*Event Registration Styles*/
+
+.wrapper .fDiv{
+    background-color:#fff;
+    margin:40px 0 0 0;
+    padding:2px 10px 10px 10px;
+}
+
+.wrapper fieldset{
+    background-color:#fff;
+}
+
+/*End*/
+
+/*Profile Styles*/
 .players{
     margin:1.66%;
 }
@@ -167,6 +244,10 @@ body .row .button{
     margin-right:10px;
 }
 
+/*End*/
+
+/*Footer Sticky*/
+
 .fake{
     height:40px;
     width:100%;
@@ -186,4 +267,72 @@ footer{
 
 footer p{
     line-height:40px;
+}
+
+/*End*/
+
+
+/*Media Querys*/
+
+@media screen and (max-width: 1403px) {
+    .cat{
+        margin:0 auto;
+        width:634px;
+    }
+
+}
+
+@media screen and (max-width: 1403px) {
+    .thumb{
+        min-height:289px;
+    }
+
+}
+
+@media screen and (max-width: 960px) {
+    .row .thumb{
+        width:46%;
+    }
+
+}
+
+@media screen and (max-width: 900px) {
+    section .content{
+        width:100%;
+        clear:left;
+    }
+
+    section .data{
+        width:100%;
+        clear:left;
+    }
+
+}
+
+@media screen and (max-width: 781px) {
+    .head .icon{
+        clear:left;
+        margin:1.66% 1.66% 1.66% 1.66%;
+    }
+
+}
+
+@media screen and (max-width: 700px) {
+    .cat{
+    margin:0 auto;
+    width:481px;
+    }
+
+    .row .thumb{
+        clear:left;
+        width:96%;
+    }
+
+}
+
+@media screen and (max-width: 466px) {
+    nav ul li .button{
+        padding:2%;
+    }
+
 }

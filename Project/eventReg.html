@@ -4,25 +4,81 @@
     <meta name="viewport" content="width=device-width , initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/foundation.css" />
+    <link href='http://fonts.googleapis.com/css?family=Cinzel+Decorative:400,700' rel='stylesheet' type='text/css'>
     <title>Vagrant Gaming Group || Start Searching for group events and help out.</title>
 </head>
 <body>
 
-<div  id="maxwidth" class="row">
-    <div class="large-3 columns">
-        <h1><a href="event.html"><img src="img/Vagrant.png" /></a></h1>
+<div class="head">
+    <div class="icon">
+        <a href="event.html"><img src="img/Vagrant.png" /></a>
     </div>
-    <div class="large-9 columns">
-        <ul class="right button-group">
+    <div class="nav">
+        <ul>
             <li><a href="event.html" class="button">Home</a></li>
             <li><a href="playerSerch.html" class="button">Guild Members</a></li>
             <li><a href="playerSerch.html" class="button">Friends</a></li>
-            <img src="img/Me.jpg">
         </ul>
+        <img src="img/Me.jpg">
     </div>
 </div>
 
+<div class="wrapper">
 
+    <div class=fDiv>
+        <fieldset>
+            <legend><h2>Survey Time!</h2></legend>
+
+            <div class="formDiv">
+                <label>Character Name</label><br>
+                <input class="text" name="name" type="text">
+            </div>
+
+            <hr>
+
+            <div class="formDiv">
+                <label>What Server are you in?</label><br>
+                <input class="text" name="server" type="text">
+            </div>
+
+            <div class="formDiv">
+                <label>When did you start Playing?</label><br>
+                <input type="date" name="bday">
+            </div>
+
+            <label>What Job do you main?</label>
+
+            <div class="formDiv">
+                <select>
+                    <option value="volvo">Warrior</option>
+                    <option value="saab">Paladin</option>
+                    <option value="mercedes">Monk</option>
+                    <option value="audi">Dragoon</option>
+                    <option value="audi">Black Mage</option>
+                    <option value="audi">White Mage</option>
+                </select>
+            </div>
+
+            <label>What race are you?</label>
+
+            <div class="formDiv">
+                <select>
+                    <option value="volvo">Hyru</option>
+                    <option value="saab">Roegadyn</option>
+                    <option value="mercedes">Miqo'te</option>
+                    <option value="audi">Lalafell</option>
+                    <option value="audi">Elezen</option>
+                </select>
+            </div>
+
+            <div class="formDiv">
+                <label>What is your ideal rotation?</label><br>
+                <textarea class="textArea" name="server" maxlength="1000" clos="30" rows="10"></textarea>
+            </div>
+        </fieldset>
+    </div>
+
+</div>
 
 </body>
 </html>
